@@ -1,4 +1,4 @@
- <widget id="A6938419806639"  version="0.0.1">
+ <widget id="A6085347142249"  version="0.0.1">
 
     <name>vue示例</name>
 
@@ -59,4 +59,3 @@
 	<permission name="hardware" />
 
 </widget>
-
